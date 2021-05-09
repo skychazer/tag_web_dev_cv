@@ -1,2 +1,2 @@
 # teag_web_dev_cv
-Open index.html
+Open index.html inside CV folder
